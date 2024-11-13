@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="homepageBackgroundColor">#C2B2A5</color>
+    <color name="homepageTextColor">#584036</color>
+    <color name="homepageButtonColor">#584036</color>
+    <color name="homepageButtonTextColor">#F2E3D8</color>
+</resources>
